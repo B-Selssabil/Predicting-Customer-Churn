@@ -1,6 +1,6 @@
 # Predicting-Customer-Churn
 
-## - General Introduction
+## General Introduction
 Churn prediction is the process of identifying customers who are likely to leave a service or cancel a subscription. This prediction is crucial for businesses as acquiring new customers is usually more expensive than retaining existing ones. Once at-risk customers are identified, specific marketing actions can be taken to increase the likelihood of retaining them.
 
 
