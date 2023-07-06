@@ -7,4 +7,4 @@ Churn prediction is the process of identifying customers who are likely to leave
 
 ## What is it ?
 
-It's a personal machine learning project. I utilized Kaggle's dataset to predict customer behavior. I did some Data Preprocessing $ EDA, then I tried to find the best model which gives best resultes.
+It's a personal machine learning project. I utilized Kaggle's dataset to predict customer behavior. I did some Data Preprocessing & EDA, then I tried to find the best model which gives best resultes.
